@@ -8,4 +8,4 @@ How to use:
 4. Write name of new file
 5. Click "Filter"
 
-![Filter  las files](https://user-images.githubusercontent.com/100380604/173050577-31fd99f3-06c7-4ea9-9d8a-c58904a1b6bf.png)
+![image](https://user-images.githubusercontent.com/100380604/173050751-b11f8513-048f-4109-9a5f-88a65569f832.png)

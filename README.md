@@ -8,4 +8,8 @@ How to use:
 4. Write name of new file
 5. Click "Filter"
 
+### Basic window
 ![image](https://user-images.githubusercontent.com/100380604/173050751-b11f8513-048f-4109-9a5f-88a65569f832.png)
+
+### Loading file
+![image](https://user-images.githubusercontent.com/100380604/180600288-39b97bd9-50e6-408a-bd4c-1448cd7e0553.png)
